@@ -3624,6 +3624,8 @@ If you haven't hit your evaluation metric yet... ask yourself...
   - `conda deactivate`
   - `conda create --prefix ./env -f environment.yml`
   - `conda create --prefix ./env pandas numpy matplotlib jupyter scikit-learn`
+- Create an environment (Windows)
+  - conda env create --prefix env -f environment.yml
 - Jupyter Notebooks
 - Data Analysis & Manipulation
 - Machine Learning
